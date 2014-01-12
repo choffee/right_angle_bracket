@@ -1,5 +1,9 @@
 # Right Angle Support
 
+This is a simple right angle support that you can use with two clamps to hold something together while you glue or screw it together.
+
+![Bracket in use](/bracket_in_use.jpg)
+
 Copyright John Cooper 2014
 
     This program is free software: you can redistribute it and/or modify
@@ -15,4 +19,4 @@ Copyright John Cooper 2014
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-This is a simple right angle support that you can use with two clamps to hold something together while you glue or screw it together.
+
